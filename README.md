@@ -4,7 +4,7 @@ BLEND: Balancing Personalization vs. Generalization in Federated Vision–Langua
 
 # Setup and Installation
 
-This repository is built on top of **[CoOp](https://github.com/KaiyangZhou/CoOp)**. Please follow the steps below to properly set up the environment and required datasets.
+This repository is built on top of **[PromptFL](https://github.com/PEILab-Federated-Learning/PromptFL)**. Please follow the steps below to properly set up the environment and required datasets.
 
 ## 1. Environment Setup
 
@@ -19,3 +19,6 @@ After activating the `dassl` environment, install the remaining dependencies by 
 
 ```bash
 pip install -r requirements.txt
+
+## 2. How to Run
+You can run federated_main.py with some specified arguments.
