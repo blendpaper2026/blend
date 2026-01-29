@@ -1,5 +1,5 @@
 
-
+BLEND: Balancing Personalization vs. Generalization in Federated Vision–Language Models (ICML Submission 2026)
 
 
 # Setup and Installation
