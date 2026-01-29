@@ -21,4 +21,4 @@ After activating the `dassl` environment, install the remaining dependencies by 
 pip install -r requirements.txt
 ```
 ## 2. How to Run
-You can run federated_main.py with some specified arguments.
+You can run BLEND/federated_main.py with some specified arguments.
